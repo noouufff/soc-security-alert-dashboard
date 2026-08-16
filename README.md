@@ -32,3 +32,13 @@ An interactive defensive cybersecurity platform simulating a Security Operations
    ```bash
    git clone https://github.com/noouufff/soc-security-alert-dashboard.git
    cd soc-security-alert-dashboard
+
+  2.  pip install -r requirements.txt
+  3.  http://127.0.0.1:5000
+  4.  To expose the dashboard via a public TLS tunnel for live demonstrations:
+ssh -R 80:127.0.0.1:5000 nokey@localhost.run
+3. Click the green button **`Commit changes`** on the top right.
+
+Now all 4 steps plus the public access command will be fully visible!
+
+   
