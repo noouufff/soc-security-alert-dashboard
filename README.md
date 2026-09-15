@@ -1,5 +1,6 @@
 # 🛡️ SOC Security Alert & Incident Command Dashboard
 
+> **Note:** This project was developed with the assistance of AI tools for planning, implementation, debugging, and documentation. The final code and project structure were reviewed, tested, and adjusted by me.
 An interactive defensive cybersecurity platform simulating a Security Operations Center (SOC) workflow. The application ingests multi-source security telemetry, correlates events against heuristic detection rules mapped to the **MITRE ATT&CK** framework, and provides a real-time triage interface for security analysts.
 
 ---
